@@ -1,0 +1,2 @@
+total_opportunity_usd,captured_usd,total_missed_usd,missed_peeking_usd,missed_underpowered_usd,missed_other_usd,degradation_loss_usd,capture_rate,potential_at_80_power_usd,additional_at_80_power_usd,pct_of_annual_revenue_missed
+18379576.0,3342089.0,15037486.0,2116463.0,1420699.0,11500325.0,175400.0,0.1818,14703661.0,11361571.0,0.1474

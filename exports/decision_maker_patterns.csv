@@ -1,0 +1,4 @@
+decision_maker,n_decisions,ship_rate,avg_p_value_when_shipped,pct_shipped_without_significance
+Data,47,0.0851,0.003,0.0
+Leadership,17,0.1765,0.0034,0.0
+PM,36,0.1667,0.0113,0.0

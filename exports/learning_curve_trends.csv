@@ -1,0 +1,5 @@
+metric,slope_per_quarter,r_squared,trend_p_value,direction
+ship_rate,0.0102,0.0275,0.7537,improving
+median_power,0.0001,0.0,0.9987,improving
+peeking_rate,0.0051,0.0036,0.9098,worsening
+significance_rate,0.0196,0.0899,0.5636,improving

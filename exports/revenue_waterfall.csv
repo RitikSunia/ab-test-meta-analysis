@@ -1,0 +1,10 @@
+category,amount_usd,type
+Total Revenue Opportunity (All Real Winners),18379576.0,total
+Revenue Captured (Shipped Winners),3342089.0,captured
+Lost: Missed Due to Peeking,2116463.0,loss
+Lost: Missed Due to Underpowering,1420699.0,loss
+Lost: Missed (Sampling Noise / Other),11500325.0,loss
+Lost: Post-Ship Lift Degradation,175400.0,loss
+Net Captured After Degradation,3166689.0,net
+Potential at 80% Power Program,14703661.0,potential
+Additional Upside at 80% Power,11361571.0,upside

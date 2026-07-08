@@ -1,0 +1,11 @@
+experiment_id,experiment_name,team,feature_category,primary_metric,true_effect,statistical_power,was_peeked,p_value,decision,annual_revenue_opportunity,missed_due_to_peeking,missed_due_to_underpowering
+EXP-0064,Bottom nav bar redesign,Monetization,UI/UX,ad_click_rate,0.107038,0.6025,False,0.071665,inconclusive,10837597.5,False,False
+EXP-0040,Floating video player on scroll,Monetization,UI/UX,subscription_conversion,0.073345,0.2621,True,0.147415,kill,356456.6999999999,True,True
+EXP-0052,Re-engagement push after 3 days inactive,Growth,Notifications,signup_conversion,0.04621,0.3624,False,0.268241,kill,299440.8,False,True
+EXP-0083,Thumbnail size increase (1.5x),Content-Algo,Content-Format,playlist_add_rate,0.109601,0.2504,True,0.264698,kill,266330.42999999993,True,True
+EXP-0008,Breaking news vs digest bundling,Growth,Notifications,signup_conversion,0.03508,0.4922,True,0.704947,kill,227318.39999999997,True,True
+EXP-0023,Topic preference quiz at signup,Content-Algo,Onboarding-Flow,content_click_through,0.040431,0.7371,False,0.476645,inconclusive,204681.9375,False,False
+EXP-0080,Thumbnail size increase (1.5x),Content-Algo,Content-Format,content_click_through,0.038708,0.4617,False,0.464874,inconclusive,195959.25,False,True
+EXP-0037,Newsletter digest format change,Content-Algo,Content-Format,content_click_through,0.037195,0.6552,True,0.685915,inconclusive,188299.6875,True,False
+EXP-0001,Interactive data viz in reports,Monetization,Content-Format,upsell_rate,0.081208,0.5178,True,0.100785,inconclusive,175409.27999999997,True,False
+EXP-0041,Email subject line: emoji vs no emoji,Engagement,Notifications,article_completion_rate,0.038968,0.4822,True,0.14798,kill,175356.0,True,True

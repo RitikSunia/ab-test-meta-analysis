@@ -1,0 +1,7 @@
+feature_category,median_power,mean_power,pct_adequate,n_experiments
+Pricing/Paywall,0.3298,0.4274,0.25,12
+Onboarding-Flow,0.163,0.4019,0.2667,15
+Notifications,0.1027,0.2336,0.0588,17
+Content-Format,0.0907,0.2395,0.0455,22
+Recommendation-Algo,0.025,0.177,0.0714,14
+UI/UX,0.025,0.2331,0.15,20

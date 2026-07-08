@@ -1,0 +1,33 @@
+experiment_id,experiment_name,team,feature_category,true_effect,true_effect_type,statistical_power,p_value,decision,actual_n_control,planned_mde,reason_missed
+EXP-0083,Thumbnail size increase (1.5x),Content-Algo,Content-Format,0.109601,medium_positive,0.2504,0.264698,kill,1663,0.08,severely_underpowered
+EXP-0064,Bottom nav bar redesign,Monetization,UI/UX,0.107038,medium_positive,0.6025,0.071665,inconclusive,29713,0.1,underpowered
+EXP-0053,Floating video player on scroll,Growth,UI/UX,0.091199,medium_positive,0.8131,0.109929,kill,32935,0.08,bad_luck_sampling_noise
+EXP-0001,Interactive data viz in reports,Monetization,Content-Format,0.081208,medium_positive,0.5178,0.100785,inconclusive,9905,0.03,underpowered
+EXP-0040,Floating video player on scroll,Monetization,UI/UX,0.073345,medium_positive,0.2621,0.147415,kill,8081,0.05,severely_underpowered
+EXP-0088,Time-decay weighting for recency,Content-Algo,Recommendation-Algo,0.062964,medium_positive,0.1633,0.15926,inconclusive,2859,0.05,severely_underpowered
+EXP-0007,Dark mode default for night readers,Growth,UI/UX,0.050487,medium_positive,0.3792,0.662568,inconclusive,8025,0.05,severely_underpowered
+EXP-0050,Cold-start user recs via trending,Monetization,Recommendation-Algo,0.047465,small_positive,0.1968,0.566838,kill,8710,0.03,severely_underpowered
+EXP-0005,Social proof (X readers joined today),Monetization,Onboarding-Flow,0.046616,small_positive,0.5446,0.508918,kill,31625,0.1,underpowered; effect_smaller_than_mde
+EXP-0052,Re-engagement push after 3 days inactive,Growth,Notifications,0.04621,small_positive,0.3624,0.268241,kill,14216,0.1,severely_underpowered; effect_smaller_than_mde
+EXP-0056,Soft paywall at 5 articles vs 3,Growth,Pricing/Paywall,0.045935,small_positive,0.1546,0.108402,inconclusive,13924,0.1,severely_underpowered; effect_smaller_than_mde
+EXP-0092,Floating video player on scroll,Monetization,UI/UX,0.044353,small_positive,0.1705,0.660165,inconclusive,8252,0.08,severely_underpowered; effect_smaller_than_mde
+EXP-0051,Student tier pricing test,Growth,Pricing/Paywall,0.044119,small_positive,0.2806,0.503627,kill,32259,0.03,severely_underpowered
+EXP-0023,Topic preference quiz at signup,Content-Algo,Onboarding-Flow,0.040431,small_positive,0.7371,0.476645,inconclusive,14809,0.05,underpowered; effect_smaller_than_mde
+EXP-0041,Email subject line: emoji vs no emoji,Engagement,Notifications,0.038968,small_positive,0.4822,0.14798,kill,4526,0.03,severely_underpowered
+EXP-0080,Thumbnail size increase (1.5x),Content-Algo,Content-Format,0.038708,small_positive,0.4617,0.464874,inconclusive,8333,0.05,severely_underpowered; effect_smaller_than_mde
+EXP-0037,Newsletter digest format change,Content-Algo,Content-Format,0.037195,small_positive,0.6552,0.685915,inconclusive,14454,0.05,underpowered; effect_smaller_than_mde
+EXP-0089,Short-form video summaries on articles,Growth,Content-Format,0.035909,small_positive,0.634,0.835251,kill,30611,0.05,underpowered; effect_smaller_than_mde
+EXP-0042,Trial extension offer at day 6,Engagement,Pricing/Paywall,0.035829,small_positive,0.6492,0.066248,inconclusive,8006,0.1,underpowered; effect_smaller_than_mde
+EXP-0008,Breaking news vs digest bundling,Growth,Notifications,0.03508,small_positive,0.4922,0.704947,kill,35746,0.05,severely_underpowered; effect_smaller_than_mde
+EXP-0065,Email subject line: emoji vs no emoji,Content-Algo,Notifications,0.034946,small_positive,0.1511,0.35768,inconclusive,8240,0.08,severely_underpowered; effect_smaller_than_mde
+EXP-0062,Personalized send-time optimization,Content-Algo,Notifications,0.031866,small_positive,0.5728,0.138375,kill,16223,0.08,underpowered; effect_smaller_than_mde
+EXP-0081,First-session content sampler,Monetization,Onboarding-Flow,0.031731,small_positive,0.163,0.589952,kill,15097,0.05,severely_underpowered; effect_smaller_than_mde
+EXP-0074,Push notification frequency (2x vs 1x daily),Monetization,Notifications,0.031402,small_positive,0.1049,0.792826,inconclusive,8036,0.1,severely_underpowered; effect_smaller_than_mde
+EXP-0032,Topic preference quiz at signup,Monetization,Onboarding-Flow,0.031363,small_positive,0.1555,0.310508,inconclusive,14491,0.08,severely_underpowered; effect_smaller_than_mde
+EXP-0019,Guided tour vs self-explore,Content-Algo,Onboarding-Flow,0.030097,small_positive,0.325,0.143996,inconclusive,8976,0.05,severely_underpowered; effect_smaller_than_mde
+EXP-0034,Short-form video summaries on articles,Growth,Content-Format,0.028659,small_positive,0.0653,0.71616,inconclusive,8019,0.08,severely_underpowered; effect_smaller_than_mde
+EXP-0084,Student tier pricing test,Engagement,Pricing/Paywall,0.026867,small_positive,0.4352,0.176208,inconclusive,8358,0.05,severely_underpowered; effect_smaller_than_mde
+EXP-0100,Dark mode default for night readers,Monetization,UI/UX,0.026784,small_positive,0.0507,0.554898,inconclusive,3512,0.05,severely_underpowered; effect_smaller_than_mde
+EXP-0070,Student tier pricing test,Monetization,Pricing/Paywall,0.023772,small_positive,0.1707,0.237599,inconclusive,28520,0.03,severely_underpowered; effect_smaller_than_mde
+EXP-0022,In-app notification center redesign,Growth,Notifications,0.022183,small_positive,0.04,0.612037,kill,2924,0.03,severely_underpowered; effect_smaller_than_mde
+EXP-0017,Breaking news vs digest bundling,Engagement,Notifications,0.020432,small_positive,0.1027,0.498199,inconclusive,2984,0.05,severely_underpowered; effect_smaller_than_mde

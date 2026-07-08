@@ -1,0 +1,7 @@
+feature_category,missed_experiments,missed_revenue_usd,avg_true_effect,avg_power
+UI/UX,6,11665654.88,0.07,0.38
+Notifications,8,1144484.96,0.03,0.29
+Content-Format,6,971374.86,0.06,0.43
+Onboarding-Flow,5,594021.6,0.04,0.39
+Pricing/Paywall,5,406423.26,0.04,0.34
+Recommendation-Algo,2,255526.92,0.06,0.18

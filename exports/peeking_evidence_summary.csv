@@ -1,0 +1,5 @@
+signal,finding,evidence_level,interpretation
+Caliper Test,Ratio: 1.0,None,No evidence of manipulation at the 0.05 boundary
+Peeking vs Significance,Peeked sig rate: 21% vs Non-peeked: 14%,Moderate,Fisher p=0.4197
+P-value Uniformity (Null Only),KS p=0.4145,Clean,P-values are uniform (no process issues)
+Duration Shortfall Bias,Early sig rate: 21% vs Full: 14%,Moderate,Correlation: 0.0592

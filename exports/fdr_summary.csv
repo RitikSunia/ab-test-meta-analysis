@@ -1,0 +1,4 @@
+method,fdr_estimate,interpretation
+Ground Truth (Simulation Only),0.0,0 of 13 shipped experiments had zero true effect
+Benjamini-Hochberg Correction,0.4118,7 of 17 significant results would not survive FDR correction
+Post-Ship Reversal Rate,0.0,0 of 13 shipped experiments showed no lift in production
