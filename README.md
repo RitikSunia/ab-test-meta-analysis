@@ -1,5 +1,7 @@
 # A/B Test Meta-Analysis Engine
 
+**Live repository:** https://github.com/RitikSunia/ab-test-meta-analysis
+
 A strategic analysis of 100 simulated A/B experiments from a media/content platform, designed to audit an organization's experimentation program and surface systemic issues.
 
 ## Context
