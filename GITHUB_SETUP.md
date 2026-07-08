@@ -43,14 +43,6 @@ Replace `YOUR_USERNAME` with your GitHub username.
 
 ## After Uploading
 
-Add these to your resume/portfolio:
+Add this to your resume/portfolio:
 
 - **GitHub:** `https://github.com/YOUR_USERNAME/ab-test-meta-analysis`
-- **Interview PDF:** `report/AB_Test_Meta_Analysis_Interview_Guide.pdf`
-
-## Regenerate PDF (if needed)
-
-```powershell
-python -m pip install fpdf2
-python report/generate_interview_pdf.py
-```

@@ -58,7 +58,6 @@ This regenerates all 31 export files in `exports/`.
 
 | File | Purpose |
 |---|---|
-| `report/AB_Test_Meta_Analysis_Interview_Guide.pdf` | Interview prep guide (objectives, findings, Q&A) |
 | `report/findings.md` | Full written findings report |
 | `report/power_bi_dashboard_guide.md` | Step-by-step Power BI build guide |
 | `exports/` | 31 Power BI-ready CSV files |
